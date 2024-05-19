@@ -3,6 +3,9 @@
 ## Overview
 This repository hosts a fine-tuned version of the GemmaCausalLM model, specifically tailored for generating answers to medical questions. The model is fine-tuned using a comprehensive dataset of medical questions and answers, aiming to assist researchers, medical students, and professionals by providing detailed, AI-generated responses to complex medical queries. The backend for serving model predictions is implemented using Flask.
 
+https://github.com/catplotlib/Shanta-LLM/assets/61319491/296a081f-8526-4831-8bb0-29a80ed3c67e
+
+
 ## Model Training
 
 ### Environment Setup
