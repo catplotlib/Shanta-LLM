@@ -1,10 +1,11 @@
 # Shanta: Medical Q&A Fine-Tuned Model
 
+https://github.com/catplotlib/Shanta-LLM/assets/61319491/296a081f-8526-4831-8bb0-29a80ed3c67e
+
 ## Overview
 This repository hosts a fine-tuned version of the GemmaCausalLM model, specifically tailored for generating answers to medical questions. The model is fine-tuned using a comprehensive dataset of medical questions and answers, aiming to assist researchers, medical students, and professionals by providing detailed, AI-generated responses to complex medical queries. The backend for serving model predictions is implemented using Flask.
 
 ## Model Training
-
 ### Environment Setup
 The model is trained in a Google Colab environment, leveraging Keras with a JAX backend. The setup involves:
 - Installing necessary libraries including `tf-keras`, `keras-nlp`, and Keras.
@@ -42,4 +43,3 @@ Contributions to this project are welcome! Please consider the following ways to
 - Improvements: Suggestions for improving model accuracy and efficiency.
 - Expansion: Adding more medical questions and answers to the dataset.
 - Testing: More rigorous testing with diverse medical scenarios.
-# Shanta-LLM
